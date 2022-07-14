@@ -1,1 +1,1 @@
-# c-Aforce-open-camera
+# c# Aforce kütüphanesi ile kamera açma.
