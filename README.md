@@ -9,4 +9,4 @@ Kameradan Görüntü yakalama ve kaydetme işlemi:
 
 Fotoğrafı Griye çevirme işlemi:
 
-![grii](https://user-images.githubusercontent.com/62421679/179346420-6309107d-2287-4270-a7d2-0cc102263632.PNG)
+![asd](https://user-images.githubusercontent.com/62421679/179346835-e5ed561b-7e40-4687-b62a-381cd05945a2.PNG)
